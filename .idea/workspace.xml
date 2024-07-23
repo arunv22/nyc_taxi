@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99149f8f-2451-433e-a24a-f34a64b8552c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/deployment/web-service-mlflow/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/web-service-mlflow/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/web-service-mlflow/predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/web-service-mlflow/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/web-service/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/web-service/predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deployment/web-service/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duration-prediction.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mlops-mage/mlflow.dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mlops-mage/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mlops-mage/docker-compose.yml" afterDir="false" />
+    <list default="true" id="99149f8f-2451-433e-a24a-f34a64b8552c" name="Changes" comment="deployment folder">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlops-mage" beforeDir="false" afterPath="$PROJECT_DIR$/mlops-mage" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,5 +146,20 @@
       <updated>1721276469908</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="deployment folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="deployment folder" />
   </component>
 </project>
